@@ -1,6 +1,7 @@
 import CreativeLayoutBuilder from "../CreativeLayoutBuilder";
 import ContactInfoSelector from "../ContactInfoSelector";
 import EmailInputSection from "../EmailInputSection";
+import imageSrc from "./../../assets/image_11fd801d.png"; // Import the image
 import "./style.css";
 
 function MainComponent({ contactInfoWidgets }) {
@@ -14,8 +15,6 @@ function MainComponent({ contactInfoWidgets }) {
               <a href="#home" className="primary-nav-link" style={{ textDecoration: "none" }}>Home</a>
               <a href="#service" className="elegant-text" style={{ textDecoration: "none" }}>Services</a>
               <a href="#about-us" className="elegant-text" style={{ textDecoration: "none" }}>About Us</a>
-              {/* <a href="#portfolio" className="portfolio-title" style={{ textDecoration: "none" }}>Portfolio</a>
-              <a href="#testimonial" className="testimonial-heading1" style={{ textDecoration: "none" }}>Testimony</a> */}
               <a href="#contact" className="contact-link" style={{ textDecoration: "none" }}>Contact</a>
             </div>
           </div>
@@ -37,7 +36,7 @@ function MainComponent({ contactInfoWidgets }) {
               <EmailInputSection />
               <p className="subscribe-heading">Follow Us</p>
               <div className="content-wrapper">
-                <img src="./src/assets/image_11fd801d.png" alt="" className="text-image-container" />
+                <img src={imageSrc} alt="Description of the image" className="text-image-container" />
               </div>
             </div>
           </div>
