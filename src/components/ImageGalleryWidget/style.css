@@ -1,0 +1,41 @@
+.parent-flex-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-container5 {
+  box-sizing: border-box;
+  display: block;
+  width: 40px;
+  max-width: initial;
+  height: 40px;
+}
+.vertical-image-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 74px;
+  margin-left: 25px;
+}
+.image-container3 {
+  display: block;
+  flex: 0 0 auto;
+  max-width: initial;
+  height: 40px;
+}
+.vertical-spacer {
+  flex: 0 0 auto;
+  margin-top: 307px;
+}
+.image-container2 {
+  box-sizing: border-box;
+  display: block;
+  width: 60px;
+  max-width: initial;
+  height: 60px;
+}

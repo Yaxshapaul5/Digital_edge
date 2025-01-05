@@ -1,0 +1,121 @@
+.testimonial-container1 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 33px;
+}
+.testimonial-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-width: 961px;
+}
+.testimonial-container2 {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 12px;
+}
+.testimonial-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 627px;
+}
+.testimonial-heading {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 500 14px Poppins, sans-serif;
+  color: #1e1c31;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+}
+.testimonial-heading2 {
+  flex: 0 0 auto;
+  align-self: stretch;
+  padding: 0;
+  margin: 0;
+  margin-top: 16px;
+  font: 600 48px/61px Poppins, sans-serif;
+  color: #1e1c31;
+  text-align: center;
+}
+.testimonial-section {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 85px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 46px;
+}
+.profile-card {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: flex-end;
+  justify-content: flex-end;
+  max-width: 501px;
+  padding-top: 73px;
+}
+.consultant-info-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 4px;
+  margin-top: 39px;
+}
+.consultant-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vertical-centered-text-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.uppercase-heading1 {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 500 14px Poppins, sans-serif;
+  color: #1e1c31;
+  text-transform: uppercase;
+}
+.uppercase-text-styler {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 400 12px Poppins, sans-serif;
+  color: #1e1c31;
+  text-transform: uppercase;
+}
+.profile-image-container {
+  flex: 0 0 auto;
+  margin-top: 49px;
+  margin-left: -6px;
+}
+.text-block-container {
+  box-sizing: border-box;
+  display: block;
+  width: 71px;
+  max-width: initial;
+  height: 12px;
+}

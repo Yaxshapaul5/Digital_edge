@@ -1,0 +1,42 @@
+.hierarchical-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vertical-image-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 70px;
+}
+.image-container1 {
+  display: block;
+  flex: 0 0 auto;
+  max-width: initial;
+  height: 60px;
+}
+.vertical-align-bottom-margin295 {
+  flex: 0 0 auto;
+  align-self: flex-end;
+  margin-top: 295px;
+}
+.image-container5 {
+  box-sizing: border-box;
+  display: block;
+  width: 40px;
+  max-width: initial;
+  height: 40px;
+}
+.boxy-icon {
+  box-sizing: border-box;
+  display: block;
+  width: 40px;
+  max-width: initial;
+  height: 40px;
+  margin-left: 42px;
+}

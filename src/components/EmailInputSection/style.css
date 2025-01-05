@@ -1,0 +1,38 @@
+.fullwidth-container {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 16px;
+}
+.flex-row-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  width: 100%;
+  height: 40px;
+  background: #ecf0fc;
+  border: none;
+  border-radius: 9px;
+}
+.input-with-icon {
+  box-sizing: border-box;
+  width: 100%;
+  margin-left: 18px;
+  font: 400 14px Poppins, sans-serif;
+  background: transparent;
+  border: none;
+  outline: none;
+}
+.input-style-f62::placeholder {
+  color: rgba(34, 33, 54, 0.8);
+}
+.svg-container1 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-right: 13px;
+  margin-bottom: 10px;
+  color: #4270ec;
+}

@@ -1,0 +1,25 @@
+.vertical-centered-text-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-container4 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 267px;
+  max-width: initial;
+  height: 267px;
+}
+.central-text-styler {
+  flex: 0 0 auto;
+  align-self: stretch;
+  padding: 0;
+  margin: 0;
+  margin-top: -100px;
+  font: 400 14px/22px Poppins, sans-serif;
+  color: black;
+  text-align: center;
+}

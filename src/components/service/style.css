@@ -1,0 +1,91 @@
+.service-sections-container {
+    display: flex;
+    flex-direction: row;
+    gap: 74px;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 110px;
+  }
+  .hierarchical-card {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 339px;
+  }
+  .design-card {
+    box-sizing: border-box;
+    display: block;
+    width: 70px;
+    max-width: initial;
+    height: 70px;
+  }
+  .vertical-flex-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    height: 97px;
+    margin-left: 19px;
+  }
+  .heading-text {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    font: 500 18px/23px Poppins, sans-serif;
+    color: #1e1c31;
+  }
+  .text-block-style {
+    flex: 0 0 auto;
+    padding: 0;
+    margin: 0;
+    margin-top: 15.5px;
+    font: 400 14px/22px Poppins, sans-serif;
+    color: rgba(6, 4, 17, 0.5);
+    text-align: left;
+  }
+  .orange-box-with-text {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    padding-right: 20.5px;
+    padding-left: 20.5px;
+    background: #f15a2b;
+    border-radius: 17px;
+  }
+  .flex-box-image-container {
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 29px;
+  }
+  .blue-box-with-text {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    padding-right: 19px;
+    padding-left: 20px;
+    background: #006380;
+    border-radius: 17px;
+  }
+  .image-container6 {
+    display: block;
+    flex: 0 0 auto;
+    max-width: initial;
+    height: 30.5px;
+  }
+  

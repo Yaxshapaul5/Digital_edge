@@ -1,0 +1,89 @@
+.creative-container {
+  flex: 0 0 auto;
+}
+.portfolio-section-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+.portfolio-section {
+  flex: 0 0 auto;
+  padding-bottom: 13.5px;
+}
+.creative-heading-style {
+  padding: 0;
+  margin: 0;
+  font: 500 14px Poppins, sans-serif;
+  color: #1e1c31;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+}
+.standout-heading {
+  padding: 0;
+  margin: 0;
+  margin-top: 16px;
+  font: 600 48px/61px Poppins, sans-serif;
+  color: #1e1c31;
+}
+.portfolio-card {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 528px;
+  padding-top: 13px;
+}
+.content-text-block {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font: 400 14px/25px Poppins, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  letter-spacing: 0.42px;
+}
+.primary-button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 13px;
+}
+.uppercase-heading {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 500 14px Poppins, sans-serif;
+  color: #4270ec;
+  text-transform: uppercase;
+  letter-spacing: 0.84px;
+}
+.svg-container {
+  display: flex;
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  margin-left: 6px;
+  color: #4270ec;
+}
+.portfolio-gallery-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-right: 21.5px;
+  margin-top: 100px;
+}
+.image-container {
+  box-sizing: border-box;
+  display: block;
+  width: 360px;
+  max-width: initial;
+  height: 481px;
+}

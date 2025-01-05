@@ -1,0 +1,16 @@
+.address-widget-text-style {
+  padding: 0;
+  margin: 0;
+  font: 400 14px Poppins, sans-serif;
+  color: rgba(34, 33, 54, 0.7);
+  white-space: pre-wrap;
+}
+.address-widget-margin-top {
+  margin-top: 14.36px;
+}
+.text-block {
+  box-sizing: border-box;
+  width: 100%;
+  line-height: 28px;
+  text-align: left;
+}

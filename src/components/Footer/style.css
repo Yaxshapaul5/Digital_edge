@@ -1,0 +1,144 @@
+.contact-info-section1 {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 148px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 160px;
+    margin-right: 12.5px;
+    margin-left: 12px;
+  }
+  .contact-section-widget {
+    box-sizing: border-box;
+    flex: 0 1 213px;
+    padding-bottom: 26.5px;
+  }
+  .contact-section-title {
+    padding: 0;
+    margin: 0;
+    font: 500 18px Poppins, sans-serif;
+    color: #222136;
+  }
+  .contact-info-section {
+    box-sizing: border-box;
+    flex: 0 1 203px;
+    padding-bottom: 11px;
+  }
+  .content-block {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-top: 32px;
+    font: 400 14px/24px Poppins, sans-serif;
+    color: rgba(34, 33, 54, 0.7);
+    text-align: left;
+  }
+  .sidebar-widget-container {
+    box-sizing: border-box;
+    flex: 0 0 280px;
+  }
+  .subscribe-heading-style {
+    padding: 0;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin: 0;
+    font: 500 18px Poppins, sans-serif;
+    color: #222136;
+  }
+  .subscribe-heading {
+    padding: 0;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin: 0;
+    margin-top: 27px;
+    font: 500 18px Poppins, sans-serif;
+    color: #222136;
+  }
+  .content-wrapper {
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-top: 11px;
+  }
+  .text-image-container {
+    box-sizing: border-box;
+    display: block;
+    width: 104px;
+    max-width: initial;
+    height: 26px;
+  }
+  .navigation-menu {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 41px;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .primary-nav-link {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 43px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 600 14px Poppins, sans-serif;
+  }
+  .elegant-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 65px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 400 14px Poppins, sans-serif;
+    color: #1e1c31;
+    letter-spacing: 0.28px;
+  }
+  .portfolio-title {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 61px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 400 14px Poppins, sans-serif;
+    color: #1e1c31;
+    letter-spacing: 0.42px;
+  }
+  .testimonial-heading1 {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 76px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 400 14px Poppins, sans-serif;
+    color: #1e1c31;
+    letter-spacing: 0.42px;
+  }
+  .primary-nav-link1 {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 39px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 400 14px Poppins, sans-serif;
+    color: #1e1c31;
+    letter-spacing: 0.42px;
+  }
+  .contact-link {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 60px;
+    height: 18px;
+    padding: 0;
+    margin: 0;
+    font: 400 14px Poppins, sans-serif;
+    color: #1e1c31;
+    letter-spacing: 0.42px;
+  }
+  

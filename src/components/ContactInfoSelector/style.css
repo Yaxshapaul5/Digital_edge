@@ -1,0 +1,14 @@
+.contact-address-widget {
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 33px;
+}
+.text-block {
+  box-sizing: border-box;
+  width: 100%;
+  line-height: 28px;
+  text-align: left;
+}
+.address-widget-text-style:first-child {
+  margin-top: 0px;
+}
